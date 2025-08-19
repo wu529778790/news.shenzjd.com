@@ -1,0 +1,8 @@
+name = "news-shenzjd-com"
+pages_build_output_dir = "dist/output/public"
+compatibility_date = "2024-10-03"
+
+[[d1_databases]]
+binding = "NEWSNOW_DB"
+database_name = "news-shenzjd-com"
+database_id = "e9c504e6-186c-4df7-8c8d-9057d7514557"
